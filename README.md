@@ -4,7 +4,7 @@
 
 ![Gameplay Demo](assets/gameplay.gif)
 
-*A quick look at the transition from Explore State to Battle State.*
+*A quick look at the transition from Intro State to Battle State*
 
 ---
 
