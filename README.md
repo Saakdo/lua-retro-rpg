@@ -3,6 +3,7 @@
 > An original 8-bit turn-based RPG developed from scratch using Lua and the LÖVE framework, featuring a robust custom state machine and original retro assets.
 
 ![Gameplay Demo](assets/magika-spell.gif)
+
 *A quick look at the transition from Explore State to Battle State.*
 
 ---
