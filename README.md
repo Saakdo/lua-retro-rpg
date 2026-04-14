@@ -2,7 +2,7 @@
 
 > An original 8-bit turn-based RPG developed from scratch using Lua and the LÖVE framework, featuring a robust custom state machine and original retro assets.
 
-![Gameplay Demo](assets/gameplay.gif)
+![Gameplay Demo](game_dev/gameplay.gif)
 
 *A quick look at the transition from Intro State to Explore State*
 
@@ -31,12 +31,12 @@ To handle the complex flow of an RPG, the game utilizes a custom, robust State M
 ## 🎨 Asset Showcase
 
 ### Character Sprites
-![Main Character Sprite](assets/mage1.png) ![Enemy Sprite](assets/Slime1.png)
+![Main Character Sprite](game_dev/mage1.png) ![Enemy Sprite](game_dev/Slime1.png)
 *Custom animations drawn in Aseprite.*
 
 ### Audio Tracks
 Listen to the original 8-bit soundtrack here:
-[Music](assets/WanderingMinstrel1.wav)
+[Music](game_dev/WanderingMinstrel1.mp3)
 
 ---
 
