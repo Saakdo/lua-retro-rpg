@@ -31,7 +31,7 @@ To handle the complex flow of an RPG, the game utilizes a custom, robust State M
 ## 🎨 Asset Showcase
 
 ### Character Sprites
-![Main Character Sprite](LINK_TO_YOUR_SPRITE_PNG_HERE.png) ![Enemy Sprite](LINK_TO_ENEMY_SPRITE_PNG_HERE.png)
+![Main Character Sprite](assets/mage1.png) ![Enemy Sprite](LINK_TO_ENEMY_SPRITE_PNG_HERE.png)
 *Custom animations drawn in Aseprite.*
 
 ### Audio Tracks
