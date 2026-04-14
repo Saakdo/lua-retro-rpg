@@ -2,7 +2,7 @@
 
 > An original 8-bit turn-based RPG developed from scratch using Lua and the LÖVE framework, featuring a robust custom state machine and original retro assets.
 
-![Gameplay Demo](LINK_TO_YOUR_GAMEPLAY_GIF_HERE.gif)
+![Gameplay Demo](assets/gameplay.gif)
 *A quick look at the transition from Explore State to Battle State.*
 
 ---
