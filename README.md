@@ -36,7 +36,7 @@ To handle the complex flow of an RPG, the game utilizes a custom, robust State M
 
 ### Audio Tracks
 Listen to the original 8-bit soundtrack here:
-[Link to your SoundCloud, YouTube, or Google Drive folder]
+[Music](assets/WanderingMinstrel1.wav)
 
 ---
 
@@ -48,3 +48,9 @@ To play the current build locally on your machine:
 2. **Clone the repository:**
    ```bash
    git clone [https://github.com/Sakda-Thiraprarom/YOUR-REPO-NAME.git](https://github.com/Sakda-Thiraprarom/YOUR-REPO-NAME.git)
+3. **Run the game**
+   * **Windows:** Drag the project folder onto love.exe or run love . in the terminal from the project directory.
+   * **macOS:** Navigate to the project directory in your terminal and type love .
+
+---
+Developed by Sakda Thiraprarom
